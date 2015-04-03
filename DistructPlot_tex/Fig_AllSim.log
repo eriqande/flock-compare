@@ -1,0 +1,825 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 MAR 2015 21:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Fig_AllSim.tex
+(./Fig_AllSim.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2012/09/15 v1.1b Class to compile TeX sub-files stan
+dalone
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/09 v2.6d package option processing (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+\XKV@depth=\count79
+File: xkeyval.tex 2014/05/09 v2.6d key=value parser (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/keyval.tex)))
+\sa@internal=\count80
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2012/09/15 v1.1b Default configuration file for 'standalon
+e' class
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box26
+\sift@deathcycles=\count89
+\@vwid@loff=\dimen103
+\@vwid@roff=\dimen104
+)
+\sa@box=\box27
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen107
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen108
+\subfiglabelskip=\skip48
+\c@subfigure=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@lotdepth=\count95
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfsync/pdfsync.sty
+Package: pdfsync 2008/01/26 v1.1
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\nameraise=\skip51
+\nameoverhang=\skip52
+
+(./Fig_AllSim.aux)
+\openout1 = `Fig_AllSim.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks18
+)
+Configuring pdfsync
+\PDFSYNC@ut=\write3
+\openout3 = `Fig_AllSim.pdfsync'.
+
+\PDFSYNCf@li@=\count102
+\PDFSYNC@rder=\count103
+**** pdfsync.sty: Synchronizing at \everypar
+\PDFSYNCeveryp@r=\toks19
+**** pdfsync.sty: Synchronizing at \everymath
+\PDFSYNCeverym@th=\toks20
+**** pdfsync.sty: Synchronizing at \everyhbox
+\PDFSYNCeveryhb@x=\toks21
+**** pdfsync.sty: Synchronizing at \everyvbox
+\PDFSYNCeveryvb@x=\toks22
+**** pdfsync.sty: started
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(../SimDat17/AvgFst.txt)
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf, id=1, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r001.p
+df used on input line 32.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r011.pdf, id=2, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r011.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r011.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r011.p
+df used on input line 33.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf, id=3, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r010.p
+df used on input line 34.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r020.pdf, id=4, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r020.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r020.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r020.p
+df used on input line 35.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r022.pdf, id=5, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r022.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r022.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r022.p
+df used on input line 36.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r027.pdf, id=6, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r027.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r027.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r027.p
+df used on input line 37.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf, id=7, 452.69125pt x 
+17.06375pt>
+File: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf>
+Package pdftex.def Info: ../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r028.p
+df used on input line 38.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+(../SimDat38/AvgFst.txt)
+<../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf, id=8, 452.69125pt x 
+17.06375pt>
+File: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf>
+Package pdftex.def Info: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r001.p
+df used on input line 42.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf, id=9, 452.69125pt x 
+17.06375pt>
+File: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf>
+Package pdftex.def Info: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r010.p
+df used on input line 43.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf, id=10, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf>
+Package pdftex.def Info: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r019.p
+df used on input line 44.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf, id=11, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf>
+Package pdftex.def Info: ../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r028.p
+df used on input line 45.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+(../SimDat10/AvgFst.txt)
+<../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf, id=12, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf>
+Package pdftex.def Info: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r001.p
+df used on input line 49.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf, id=13, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf>
+Package pdftex.def Info: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r010.p
+df used on input line 50.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf, id=14, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf>
+Package pdftex.def Info: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r019.p
+df used on input line 51.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf, id=15, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf>
+Package pdftex.def Info: ../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r028.p
+df used on input line 52.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+(../SimDat13/AvgFst.txt)
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf, id=16, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r001.p
+df used on input line 56.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf, id=17, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r010.p
+df used on input line 57.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf, id=18, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r019.p
+df used on input line 58.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r029.pdf, id=19, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r029.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r029.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r029.p
+df used on input line 59.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf, id=20, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r028.p
+df used on input line 60.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r031.pdf, id=21, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r031.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r031.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r031.p
+df used on input line 61.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r032.pdf, id=22, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r032.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r032.pdf>
+Package pdftex.def Info: ../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r032.p
+df used on input line 62.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+(../SimDat31/AvgFst.txt)
+<../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf, id=23, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf>
+Package pdftex.def Info: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r001.p
+df used on input line 66.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf, id=24, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf>
+Package pdftex.def Info: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r010.p
+df used on input line 67.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf, id=25, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf>
+Package pdftex.def Info: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r019.p
+df used on input line 68.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+<../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf, id=26, 452.69125pt x
+ 17.06375pt>
+File: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf Graphic file (ty
+pe pdf)
+ <use ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf>
+Package pdftex.def Info: ../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r028.p
+df used on input line 69.
+(pdftex.def)             Requested size: 452.69014pt x 17.06369pt.
+
+Overfull \hbox (95.5742pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) in paragraph at lines 31--70
+[] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) in paragraph at lines 31--70
+[] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) in paragraph at lines 31--70
+[] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) in paragraph at lines 31--70
+[] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Overfull \hbox (51.8242pt too wide) in paragraph at lines 31--70
+[] | [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--70
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 71
+[][]
+ []
+
+
+Overfull \hbox (51.8242pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) detected at line 71
+[][][] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) detected at line 71
+[][][] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) detected at line 71
+[][][] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (122.85878pt too wide) detected at line 71
+[][][] 
+ []
+
+
+Overfull \hbox (46.82419pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (110.57423pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (103.07422pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+
+Overfull \hbox (95.5742pt too wide) detected at line 71
+[][][] | [] 
+ []
+
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../SimD
+at17/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf> <../SimDat17/final_pdf/BB_ds
+_Clumped_NoLabel_k005r011.pdf> <../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k00
+5r010.pdf> <../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005r020.pdf> <../SimDa
+t17/final_pdf/BB_ds_Clumped_NoLabel_k005r022.pdf> <../SimDat17/final_pdf/BB_ds_
+Clumped_NoLabel_k005r027.pdf> <../SimDat17/final_pdf/BB_ds_Clumped_NoLabel_k005
+r028.pdf> <../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf> <../SimDat
+38/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf> <../SimDat38/final_pdf/BB_ds_C
+lumped_NoLabel_k005r019.pdf> <../SimDat38/final_pdf/BB_ds_Clumped_NoLabel_k005r
+028.pdf> <../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf> <../SimDat1
+0/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf> <../SimDat10/final_pdf/BB_ds_Cl
+umped_NoLabel_k005r019.pdf> <../SimDat10/final_pdf/BB_ds_Clumped_NoLabel_k005r0
+28.pdf> <../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r001.pdf> <../SimDat13
+/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf> <../SimDat13/final_pdf/BB_ds_Clu
+mped_NoLabel_k005r019.pdf> <../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r02
+9.pdf> <../SimDat13/final_pdf/BB_ds_Clumped_NoLabel_k005r028.pdf> <../SimDat13/
+final_pdf/BB_ds_Clumped_NoLabel_k005r031.pdf> <../SimDat13/final_pdf/BB_ds_Clum
+ped_NoLabel_k005r032.pdf> <../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r001
+.pdf> <../SimDat31/final_pdf/BB_ds_Clumped_NoLabel_k005r010.pdf> <../SimDat31/f
+inal_pdf/BB_ds_Clumped_NoLabel_k005r019.pdf> <../SimDat31/final_pdf/BB_ds_Clump
+ed_NoLabel_k005r028.pdf>] (./Fig_AllSim.aux) ) 
+Here is how much of TeX's memory you used:
+ 2946 strings out of 493117
+ 47854 string characters out of 6135433
+ 109316 words of memory out of 5000000
+ 6339 multiletter control sequences out of 15000+600000
+ 5339 words of font info for 22 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,21n,56p,284b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Fig_AllSim.pdf (1 page, 2002603 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
