@@ -1,5 +1,10 @@
 # flock-compare
 
+This is an archive of scripts and data to reproduce the simulations we did for the paper
+"Interpreting the FLOCK algorithm from a statistical perspective" to be published 
+in Molecular Ecology Resources.
+
+
 ## Reproducing the simulations
 
 ### Flockture versus structure
