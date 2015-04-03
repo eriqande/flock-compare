@@ -22,7 +22,8 @@ The code is divided into 5 main parts:
 5. Compute zero-one loss and graph output.  
 
 In order to do this you will need to clone a few git repositories: `flock-compare`, `flockture` and 
-`slg_pipe`.  With the latter two there are some further setup things that must be done as described
+`slg_pipe`.  (Note that the current state of `flockture` will be archived with Dryad as well).
+With the latter two there are some further setup things that must be done as described
 in their READMEs.  See the README section at 
 [https://github.com/eriqande/flockture](https://github.com/eriqande/flockture) and
 [https://github.com/eriqande/slg_pipe](https://github.com/eriqande/slg_pipe)
